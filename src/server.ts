@@ -1,3 +1,5 @@
 import app from "./app.js";
 
-app.listen(6969, () => console.log("Running on :6969"));
+const PORT = process.env.PORT;
+
+app.listen(PORT, () => console.log(`Running on ${PORT}`));
