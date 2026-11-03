@@ -1,4 +1,4 @@
-# Quizzy
+# Quizzy O.O
 
 A quiz REST API. Topics hold multiple-choice questions, and players can fetch a topic's questions with shuffled options and check their answers.
 
